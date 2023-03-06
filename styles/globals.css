@@ -212,3 +212,9 @@ animation:card-move 10s infinite;
           body{
             /* background-color: rgb(8, 8, 8); */
           }
+          .home-section{
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+          }

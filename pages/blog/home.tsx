@@ -18,8 +18,8 @@ function Home() {
                     <Image
                         src={man} alt="placeholder"
                         // layout="responsive"
-                        width={300}
-                        height={300}
+                        width={500}
+                        height={500}
                         className='image-size ms-5 rounded-pill'
                     />
                 </div>

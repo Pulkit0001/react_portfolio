@@ -25,36 +25,36 @@ function Technicalskill() {
         </div>
 <div className='row mt-5 text-center'>
     <div className='col-2'>
-       <Image src={html} className="child-image" height={130} width={130} alt="jnk" /> 
+       <Image src={html} className="image-size" height={130} width={130} alt="jnk" /> 
     </div>
     <div className='col-2 '>
-       <Image src={css} className="child-image" height={130} width={130} alt="jnk" /> 
+       <Image src={css} className="image-size" height={130} width={130} alt="jnk" /> 
     </div>
     <div className='col-2 '>
-       <Image src={js} className="child-image" height={130} width={130} alt="jnk" /> 
+       <Image src={js} className="image-size" height={130} width={130} alt="jnk" /> 
     </div>
     <div className='col-2 '>
-       <Image src={bootstrap} className="child-image" height={130} width={130} alt="jnk" /> 
+       <Image src={bootstrap} className="image-size" height={130} width={130} alt="jnk" /> 
     </div>
     <div className='col-2'>
-       <Image src={react} className="child-image" height={130} width={130} alt="jnk" /> 
+       <Image src={react} className="image-size" height={130} width={130} alt="jnk" /> 
     </div>
     <div className='col-2'>
-       <Image src={git} className="child-image" height={130} width={130} alt="jnk" /> 
+       <Image src={git} className="image-size" height={130} width={130} alt="jnk" /> 
     </div>
     </div>
     <div className='row mt-5 text-center'>
     <div className='col-2 '>
-       <Image src={node} className="child-image" height={130} width={130} alt="jnk" /> 
+       <Image src={node} className="image-size" height={130} width={130} alt="jnk" /> 
     </div>
     <div className='col-2'>
-       <Image src={postman} className="child-image" height={130} width={130} alt="jnk" /> 
+       <Image src={postman} className="image-size" height={130} width={130} alt="jnk" /> 
     </div>
     <div className='col-2'>
-       <Image src={redux} className="child-image" height={130} width={130} alt="jnk" /> 
+       <Image src={redux} className="image-size" height={130} width={130} alt="jnk" /> 
     </div>
     <div className='col-2'>
-       <Image src={next} className="child-image" height={130} width={130} alt="jnk" /> 
+       <Image src={next} className="image-size" height={130} width={130} alt="jnk" /> 
     </div>
     </div>
       </div>
